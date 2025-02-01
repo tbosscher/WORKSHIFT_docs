@@ -102,3 +102,13 @@ button#amplify-id-\:r0\:-tab-signUp {
   margin-bottom: 10px;
   text-align: center;
 }
+
+/* Change breadcrumb text to white */
+.amplify-breadcrumbs__link {
+  color: white !important;
+}
+
+/* Ensure the current page breadcrumb is also white */
+.amplify-breadcrumbs__link--current {
+  color: white !important;
+}

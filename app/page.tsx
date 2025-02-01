@@ -37,7 +37,7 @@ const components = {
           style={{ 
             fontSize: "1.25rem", 
             fontWeight: "bold", 
-            color: "#ffffff", 
+            color: "#005a68", 
             marginTop: "5px" 
           }}
         >
